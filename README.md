@@ -17,4 +17,7 @@ The logo was created by skewing a royalty free SVG image I took from IconFinder.
 *I have not tested this ~~extensively~~ at all and I doubt it will be very efficient. This was truly just a high effort shit post. My aim was to create something humorous and I will not be held responsbile if this program causes your computer to explode and/or causes it to start shooting pink dildos at you. Use at your own risk.*
 <br/>
 <br/>
+I'm a talentless hack and even the idea was stolen... shout out to Bmjslider on reddit for giving me this idea.
+<br/>
+<br/>
 If you happen to spend any amount of time on this project and notice something I can improve, I'd love to get your feedback. Contact me at @IsmaelVazquezJr
