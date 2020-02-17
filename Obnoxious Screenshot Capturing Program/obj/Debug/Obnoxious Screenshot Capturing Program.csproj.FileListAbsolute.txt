@@ -1,0 +1,14 @@
+C:\Users\ismae\source\repos\Obnoxious Screenshot Capturing Program\bin\Debug\Obnoxious Screenshot Capturing Program.exe.config
+C:\Users\ismae\source\repos\Obnoxious Screenshot Capturing Program\bin\Debug\Obnoxious Screenshot Capturing Program.exe
+C:\Users\ismae\source\repos\Obnoxious Screenshot Capturing Program\bin\Debug\Obnoxious Screenshot Capturing Program.pdb
+C:\Users\ismae\source\repos\Obnoxious Screenshot Capturing Program\obj\Debug\Obnoxious Screenshot Capturing Program.csprojAssemblyReference.cache
+C:\Users\ismae\source\repos\Obnoxious Screenshot Capturing Program\obj\Debug\MainWindow.g.cs
+C:\Users\ismae\source\repos\Obnoxious Screenshot Capturing Program\obj\Debug\App.g.cs
+C:\Users\ismae\source\repos\Obnoxious Screenshot Capturing Program\obj\Debug\Obnoxious Screenshot Capturing Program_MarkupCompile.cache
+C:\Users\ismae\source\repos\Obnoxious Screenshot Capturing Program\obj\Debug\Obnoxious Screenshot Capturing Program_MarkupCompile.lref
+C:\Users\ismae\source\repos\Obnoxious Screenshot Capturing Program\obj\Debug\MainWindow.baml
+C:\Users\ismae\source\repos\Obnoxious Screenshot Capturing Program\obj\Debug\Obnoxious Screenshot Capturing Program.g.resources
+C:\Users\ismae\source\repos\Obnoxious Screenshot Capturing Program\obj\Debug\Obnoxious_Screenshot_Capturing_Program.Properties.Resources.resources
+C:\Users\ismae\source\repos\Obnoxious Screenshot Capturing Program\obj\Debug\Obnoxious Screenshot Capturing Program.csproj.GenerateResource.cache
+C:\Users\ismae\source\repos\Obnoxious Screenshot Capturing Program\obj\Debug\Obnoxious Screenshot Capturing Program.exe
+C:\Users\ismae\source\repos\Obnoxious Screenshot Capturing Program\obj\Debug\Obnoxious Screenshot Capturing Program.pdb
