@@ -14,7 +14,7 @@ The program is written in C# and the GUI was created using Windows Presentation 
 The logo was created by skewing a royalty free SVG image I took from IconFinder. Shoutout to the original creator.
 <br/>
 <br/>
-*I have not tested this ~~extensively~~ at all and I doubt it will be very efficient. This was truly just a high effort shit post. My aim was to create something humorous and I will not be held responsbile if this program causes your computer to explode and/or causes it to start shooting pink dildos at you. Use at your own risk.*
+*I have not tested this ~~extensively~~ at all and I doubt it will be very efficient. This was truly just a high effort shit post. My aim was to create something humorous and I will not be held responsible if this program causes your computer to explode and/or causes it to start shooting pink dildos at you. Use at your own risk.*
 <br/>
 <br/>
 I'm a talentless hack and even the idea was stolen... shout out to Bmjslider on reddit for giving me this idea.
