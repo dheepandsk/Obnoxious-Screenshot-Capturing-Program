@@ -8,16 +8,14 @@ Don't miss a moment with the Obnoxious Screenshot Capturing Program(OSCP)! This 
 <br/><br/>
 ![A screenshot of the tool](https://github.com/ismaelvazquezjr/Obnoxious-Screenshot-Capturing-Program/blob/master/oscp-tool-screenshot.png)
 <br/><br/>
-The program is written in C# and the GUI was created using Windows Presentation Foundation(WPF). If any of the code looks well written or particularly efficient, it was ~~probably~~ stolen off of Stack Overflow or some other part of the web. Unfortunately, I didn't keep track of where exactly I took it from and I apologize to their respective authors. Everything else was written by yours truly.
+The program is written in C# and the GUI was created using Windows Presentation Foundation(WPF). The program is designed to be sleek and efficient allowing the user to set the pace at which the screenshots are taken, the naming convention of the images, and where they're stored on disk. The program uses state of the art technology that captures what's on screen and converts it to a bitmap so it can be transferred to primary storage.
 <br/>
 <br/>
 The logo was created by skewing a royalty free SVG image I took from IconFinder. Shoutout to the original creator.
+
 <br/>
 <br/>
-*I have not tested this ~~extensively~~ at all and I doubt it will be very efficient. This was truly just a high effort shit post. My aim was to create something humorous and I will not be held responsible if this program causes your computer to explode and/or causes it to start shooting pink dildos at you. Use at your own risk.*
-<br/>
-<br/>
-I'm a talentless hack and even the idea was stolen... shout out to Bmjslider on reddit for giving me this idea.
+This project was inspired by Bmjslider who originally posted the concept on reddit.
 <br/>
 <br/>
 If you happen to spend any amount of time on this project and notice something I can improve, I'd love to get your feedback. Contact me at @IsmaelVazquezJr
